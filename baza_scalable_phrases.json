@@ -1,0 +1,4370 @@
+[
+  {
+    "id": "P001",
+    "template": "Life Is Better With {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P002",
+    "template": "Eat. Sleep. {activity}. Repeat.",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P003",
+    "template": "I {action} To Burn Off The Crazy",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "action"
+    ],
+    "requires": [
+      "action"
+    ]
+  },
+  {
+    "id": "P004",
+    "template": "I Know I {activity} Like A Girl. Try To Keep Up",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P005",
+    "template": "On The 8th Day God Created {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P006",
+    "template": "I Just Want To {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P007",
+    "template": "{niche} For President",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P008",
+    "template": "First {niche}, Then I Do The Things",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P009",
+    "template": "The 11th Commandment: Thou Shalt {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P010",
+    "template": "Yes, I Really Do Need All These {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P011",
+    "template": "{niche} Is My Valentine",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 16,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P012",
+    "template": "{niche} Is My Superpower",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P013",
+    "template": "{niche} Is My Favorite",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P014",
+    "template": "Will Work For {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P015",
+    "template": "{niche} Is My Spirit Animal",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P016",
+    "template": "{niche} Search & Rescue Team",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P017",
+    "template": "{niche} Queen",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P018",
+    "template": "I Might Have A {niche} Problem",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P019",
+    "template": "Sorry I Can’t, I Have {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P020",
+    "template": "I Hate Being Sexy But I’m A {role} So I Can’t Help It",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P021",
+    "template": "Peace, Love & {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P022",
+    "template": "I Have A Black Belt In {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 17,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P023",
+    "template": "{niche} Makes Me Happy",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P024",
+    "template": "{niche} Makes Me Happy, You Not So Much",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P025",
+    "template": "{niche} Heals The Soul",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P026",
+    "template": "List Of Things I Like: 1. {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P027",
+    "template": "You Had Me At {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P028",
+    "template": "This Is My {niche} Shirt",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P029",
+    "template": "Okay, But First {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P030",
+    "template": "All I Want For Christmas Is {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P031",
+    "template": "The World Needs More {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P032",
+    "template": "I Like To Party And By Party I Mean {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P033",
+    "template": "{niche} Is My Jam",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P034",
+    "template": "I Like {niche} And Maybe Like 3 People",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 18,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P035",
+    "template": "I Followed My Heart And It Led Me To {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 19,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P036",
+    "template": "{niche} Is Calling And I Must Go",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 19,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P037",
+    "template": "I’m Just Here To {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 19,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P038",
+    "template": "Today’s Schedule: 1. Wake Up 2. {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 19,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P039",
+    "template": "Less People, More {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 19,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P040",
+    "template": "Just A {role} Who Loves {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 19,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P041",
+    "template": "I Enjoy Long Romantic Walks To {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 19,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P042",
+    "template": "{niche} Whisperer",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 19,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P043",
+    "template": "{niche} Saves Lives",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 19,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P044",
+    "template": "{niche} Legend",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P045",
+    "template": "I Don’t Always {activity}, Sometimes I Sleep",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P046",
+    "template": "A {niche} A Day Keeps The Doctor Away",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P047",
+    "template": "{niche} Girl",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P048",
+    "template": "Easily Distracted By {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P049",
+    "template": "Don’t Talk To Me, I’m {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P050",
+    "template": "A Day Without {niche} Is A Day Wasted",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P051",
+    "template": "Sorry I Wasn’t Listening, I Was Thinking About {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P052",
+    "template": "{niche} Makes Everything Better",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P053",
+    "template": "Money Can’t Make You Happy, But {niche} Can",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P054",
+    "template": "Addicted To {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 20,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P055",
+    "template": "I Have A PhD In {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P056",
+    "template": "{niche} Never Broke My Heart",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P057",
+    "template": "I Don’t Need Therapy, I Just Need To {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P058",
+    "template": "Yes, I Do Have A Retirement Plan, I Plan On {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P059",
+    "template": "{niche} Crew",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P060",
+    "template": "I {activity} Because Punching People Is Frowned Upon",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P061",
+    "template": "Nacho Average {role}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P062",
+    "template": "Life Would Be Boring Without {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P063",
+    "template": "{niche} Is Not A Hobby, It’s A Way Of Life",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P064",
+    "template": "This Is My Human Costume, I’m Really A {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P065",
+    "template": "I Speak Fluent {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 21,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P066",
+    "template": "I Work To Support My {niche} Addiction",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P067",
+    "template": "Powered By {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P068",
+    "template": "My Blood Type Is {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P069",
+    "template": "{niche} Is Like Magic, But Real",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P070",
+    "template": "I Don’t Know What The Question Is, But The Answer Is {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P071",
+    "template": "{niche} Is Magical",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P072",
+    "template": "Retired {role}: I Worked My Whole Life For This Shirt",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P073",
+    "template": "What Can I Say? I Like {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P074",
+    "template": "Introverted But Willing To Discuss {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P075",
+    "template": "Sorry I’m Late, I Was {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P076",
+    "template": "I’d Rather Be {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 22,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P077",
+    "template": "All I Need Is {niche} & {cross}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "cross",
+      "niche"
+    ],
+    "requires": [
+      "cross"
+    ]
+  },
+  {
+    "id": "P078",
+    "template": "{niche} Hair, Don’t Care",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P079",
+    "template": "If I Have To Stop {activity}, Then It’s A No",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P080",
+    "template": "What I Need Today Is Lots & Lots Of {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P081",
+    "template": "Ask Me About {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P082",
+    "template": "Born To {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P083",
+    "template": "I Just Freaking Love {niche}, OK?",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P084",
+    "template": "{niche} Junkie",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P085",
+    "template": "It’s A {niche} Thing, You Wouldn’t Understand",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P086",
+    "template": "WAIT. I See {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P087",
+    "template": "Living That {niche} Life",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 23,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P088",
+    "template": "I’m Retired, My Job Is To {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P089",
+    "template": "Excuse Me While I {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P090",
+    "template": "7 Days Without {niche} Makes One Weak",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P091",
+    "template": "When In Doubt, {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P092",
+    "template": "Always Be Yourself, Unless You Can Be A {niche}, Then Always Be A {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P093",
+    "template": "Trust Me, I’m A {role}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P094",
+    "template": "{niche} Costume Shirt",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P095",
+    "template": "Pretend I’m A {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P096",
+    "template": "Best {role} Ever",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P097",
+    "template": "{niche} Makes Me Happy, Humans Make My Head Hurt",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P098",
+    "template": "{niche}ology: The Science Of {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 24,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P099",
+    "template": "I Never Dreamed I’d Grow Up To Be A {role}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P100",
+    "template": "That’s What I Do: I {activity} And I Know Things",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P101",
+    "template": "Class Of {year}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "year"
+    ],
+    "requires": [
+      "year"
+    ]
+  },
+  {
+    "id": "P102",
+    "template": "Awesome Since {year}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "year"
+    ],
+    "requires": [
+      "year"
+    ]
+  },
+  {
+    "id": "P103",
+    "template": "Legend Since {year}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "year"
+    ],
+    "requires": [
+      "year"
+    ]
+  },
+  {
+    "id": "P104",
+    "template": "{niche} Girls Are Sunshine Mixed With A Little Hurricane",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P105",
+    "template": "World’s Okayest {role}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P106",
+    "template": "Friends Don’t Let Friends {activity}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P107",
+    "template": "Best {role} Since {year}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "role",
+      "year"
+    ],
+    "requires": [
+      "role",
+      "year"
+    ]
+  },
+  {
+    "id": "P108",
+    "template": "{year} Years Of Being Awesome",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "year"
+    ],
+    "requires": [
+      "year"
+    ]
+  },
+  {
+    "id": "P109",
+    "template": "May Contain {niche}",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 25,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P110",
+    "template": "This {role}…",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 26,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P111",
+    "template": "I Hate {niche}, Said No One Ever",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 26,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P112",
+    "template": "{niche} Is My Therapy",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 26,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P113",
+    "template": "I Have Two Titles: {role} And {role}, And I Rock Them Both",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 26,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P114",
+    "template": "Definition: {role}. Just Like A Normal Person Except Much Cooler",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 26,
+    "slots": [
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P115",
+    "template": "Education Is Important But {niche} Is Importanter",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 26,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P116",
+    "template": "Level {year} Unlocked",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 26,
+    "slots": [
+      "year"
+    ],
+    "requires": [
+      "year"
+    ]
+  },
+  {
+    "id": "P117",
+    "template": "Either You Like {niche} Or You’re Wrong",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 26,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P118",
+    "template": "I Just Really Like {niche}, OK?",
+    "source": "PDF",
+    "category": "Z PDF-a",
+    "page": 26,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P119",
+    "template": "Tiny Hearts, Big Love For {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P120",
+    "template": "Made Of Sunshine And {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P121",
+    "template": "A Little Bit Of Magic, A Lot Of {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P122",
+    "template": "Sending You {niche} Vibes",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P123",
+    "template": "My Happy Place Has {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P124",
+    "template": "Soft Heart, Serious {niche} Obsession",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P125",
+    "template": "Cute Enough To Talk About {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P126",
+    "template": "Small Joys, Big {niche} Energy",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P127",
+    "template": "A Pocket Full Of {niche} Dreams",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P128",
+    "template": "Too Sweet To Skip {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P129",
+    "template": "Sprinkled With Love And {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P130",
+    "template": "My Heart Belongs To {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P131",
+    "template": "Always Save Room For {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P132",
+    "template": "Born With A Soft Spot For {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P133",
+    "template": "Happiness Looks Like {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P134",
+    "template": "My Kind Of Fairytale Includes {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P135",
+    "template": "Made To Smile At {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P136",
+    "template": "Hugs, Kisses, And {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P137",
+    "template": "A Happy Little Life With {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P138",
+    "template": "Powered By Cuteness And {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P139",
+    "template": "If Lost, Return Me To {niche}",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P140",
+    "template": "Life Needs More Tiny {niche} Moments",
+    "source": "Autorskie",
+    "category": "Cute & wholesome",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P141",
+    "template": "In My Dark Era, Still Loving {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P142",
+    "template": "Midnight Thoughts And {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P143",
+    "template": "Forever Haunted By {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P144",
+    "template": "Black Coffee, Dark Skies, {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P145",
+    "template": "Till Death Do Us {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P146",
+    "template": "My Soul Runs On {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P147",
+    "template": "A Little Darkness, A Lot Of {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P148",
+    "template": "Made Of Moonlight And {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P149",
+    "template": "The Night Belongs To {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P150",
+    "template": "Cursed With Excellent {niche} Taste",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P151",
+    "template": "Nocturnal By Nature, {niche} By Choice",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P152",
+    "template": "Even Ghosts Understand My {niche} Obsession",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P153",
+    "template": "Welcome To My {niche} Coven",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P154",
+    "template": "Dead Tired, Still Thinking Of {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P155",
+    "template": "Under The Moon, Over The {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P156",
+    "template": "The Shadows Know I Love {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P157",
+    "template": "Dark Hearts Love {niche} Too",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P158",
+    "template": "Bury Me With My {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P159",
+    "template": "A Gothic Soul In A {niche} World",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P160",
+    "template": "My Love Language Is {niche} And Darkness",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P161",
+    "template": "The Haunted Side Of {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P162",
+    "template": "Born For The Shadows, Staying For {niche}",
+    "source": "Autorskie",
+    "category": "Dark & gothic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P163",
+    "template": "I Came, I Saw, I Chose {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P164",
+    "template": "Don’t Blame Me, Blame {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P165",
+    "template": "The Answer Was {niche} All Along",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P166",
+    "template": "I’m Here For {niche}, Not Small Talk",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P167",
+    "template": "My Plans Were Cancelled By {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P168",
+    "template": "Out Of Office, Into {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P169",
+    "template": "Current Mood: More {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P170",
+    "template": "Sorry, My Brain Is Full Of {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P171",
+    "template": "Ask Again After {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P172",
+    "template": "Not Now, I’m Busy With {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P173",
+    "template": "I Tried Being Normal, Then Found {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P174",
+    "template": "I’m Not Arguing, I’m Explaining {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P175",
+    "template": "I’d Agree With You, But {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P176",
+    "template": "I Have Excellent Taste In {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P177",
+    "template": "My Last Brain Cell Wants {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P178",
+    "template": "I Can Explain Everything Except My {niche} Collection",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P179",
+    "template": "This Meeting Could Have Been {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P180",
+    "template": "Professional Overthinker, Amateur {niche} Expert",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P181",
+    "template": "My Budget Said No, {niche} Said Yes",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P182",
+    "template": "I Was Productive Until {niche} Happened",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P183",
+    "template": "I’m Mostly Here For The {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P184",
+    "template": "Too Many Opinions, Not Enough {niche}",
+    "source": "Autorskie",
+    "category": "Humor & sarcasm",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P185",
+    "template": "Simply {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P186",
+    "template": "Only {niche} Things",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P187",
+    "template": "In My {niche} Era",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P188",
+    "template": "A Life In {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P189",
+    "template": "The Art Of Loving {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P190",
+    "template": "Less Noise. More {niche}.",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P191",
+    "template": "Keep It Simple. Keep {niche}.",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P192",
+    "template": "Everyday {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P193",
+    "template": "Made For {niche} Days",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P194",
+    "template": "A Little More {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P195",
+    "template": "Quietly Obsessed With {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P196",
+    "template": "Find Beauty In {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P197",
+    "template": "Collect Moments, Choose {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P198",
+    "template": "Essentially {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P199",
+    "template": "The Good Kind Of {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P200",
+    "template": "Rooted In {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P201",
+    "template": "Less Hurry, More {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P202",
+    "template": "Always In A {niche} State Of Mind",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P203",
+    "template": "The Fine Art Of {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P204",
+    "template": "Aesthetic In Progress: {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P205",
+    "template": "Life, Lately: {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P206",
+    "template": "Nothing Extra, Just {niche}",
+    "source": "Autorskie",
+    "category": "Minimalist & aesthetic",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P207",
+    "template": "Vintage Soul, Modern {niche} Problem",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P208",
+    "template": "Old School Heart, New {niche} Dreams",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P209",
+    "template": "Retro Mood, {niche} Attitude",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P210",
+    "template": "Stay Groovy, Love {niche}",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P211",
+    "template": "Good Times And Great {niche}",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P212",
+    "template": "Born Too Late For Vintage {niche}",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P213",
+    "template": "Forever In My {niche} Era",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P214",
+    "template": "Made For The {niche} Good Old Days",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P215",
+    "template": "A Classic Case Of {niche} Fever",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P216",
+    "template": "Retro Vibes, Real {niche} Love",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P217",
+    "template": "Golden Hour, {niche} Power",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P218",
+    "template": "Throwback To Better {niche} Days",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P219",
+    "template": "Old Fashioned And Obsessed With {niche}",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P220",
+    "template": "Peace, Patterns, And {niche}",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P221",
+    "template": "Too Retro To Quit {niche}",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P222",
+    "template": "All Roads Lead To {niche} Nostalgia",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P223",
+    "template": "Good Old Days, Great New {niche}",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P224",
+    "template": "Yesterday’s Style, Today’s {niche}",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P225",
+    "template": "Dreaming In Technicolor And {niche}",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P226",
+    "template": "Born To Be A {niche} Original",
+    "source": "Autorskie",
+    "category": "Retro & nostalgia",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P227",
+    "template": "Take The Scenic Route To {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P228",
+    "template": "Collect Memories, Not Excuses, With {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P229",
+    "template": "Meet Me Where The {niche} Is",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P230",
+    "template": "Adventure Starts With {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P231",
+    "template": "Leave The Noise, Find The {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P232",
+    "template": "Chasing Sunsets And {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P233",
+    "template": "Wander Often, Think Of {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P234",
+    "template": "Somewhere Out There Is More {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P235",
+    "template": "Pack Light, Dream Big, Bring {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P236",
+    "template": "The Best Stories Begin With {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P237",
+    "template": "Nature Called, I Brought {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P238",
+    "template": "Lost In The Right Direction With {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P239",
+    "template": "Explore More, Worry Less About {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P240",
+    "template": "Go Wild For {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P241",
+    "template": "My Compass Points To {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P242",
+    "template": "Every Trail Leads Back To {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P243",
+    "template": "Open Skies And {niche} Eyes",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P244",
+    "template": "Wild At Heart, Calm Around {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P245",
+    "template": "Road Trips And {niche} Stops",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P246",
+    "template": "Find Your Trail, Find Your {niche}",
+    "source": "Autorskie",
+    "category": "Adventure & outdoor",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P247",
+    "template": "Achievement Unlocked: {niche} Fan",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P248",
+    "template": "Loading More {niche}...",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P249",
+    "template": "Error 404: Not Enough {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P250",
+    "template": "Main Character Of My {niche} Story",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P251",
+    "template": "Side Quest: Find More {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P252",
+    "template": "Respawn With {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P253",
+    "template": "My Inventory Is Full Of {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P254",
+    "template": "Level Up Your {niche} Love",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P255",
+    "template": "Critical Hit: {niche} Addiction",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P256",
+    "template": "Quest Accepted: More {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P257",
+    "template": "Powered By Pixels And {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P258",
+    "template": "High Score In Loving {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P259",
+    "template": "My Favorite DLC Is {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P260",
+    "template": "Press Start For {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P261",
+    "template": "Game Over? Not Without {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P262",
+    "template": "AFK, Thinking About {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P263",
+    "template": "My Skill Tree Is Mostly {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P264",
+    "template": "No Cheat Codes, Just {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P265",
+    "template": "Debugging Life With {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P266",
+    "template": "The Algorithm Recommends {niche}",
+    "source": "Autorskie",
+    "category": "Geek & gaming",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P267",
+    "template": "My Social Battery Runs On {niche}",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P268",
+    "template": "Cozy Clothes And {niche} Plans",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P269",
+    "template": "Home Is Where My {niche} Is",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P270",
+    "template": "Quiet Time, Loud {niche} Thoughts",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P271",
+    "template": "Please Respect My {niche} Time",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P272",
+    "template": "Introvert Mode: {niche} Only",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P273",
+    "template": "Cancel Plans, Keep {niche}",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P274",
+    "template": "Small Circle, Big {niche} Feelings",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P275",
+    "template": "Peaceful Mornings, Plenty Of {niche}",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P276",
+    "template": "My Weekend Has A {niche} Theme",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P277",
+    "template": "Pajamas, Snacks, And {niche}",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P278",
+    "template": "Not Anti-Social, Pro-{niche}",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P279",
+    "template": "Deep Breaths And Deep {niche} Thoughts",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P280",
+    "template": "Cozy Corner, Serious {niche} Hobby",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P281",
+    "template": "My Sanctuary Smells Like {niche}",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P282",
+    "template": "The Outside World Can Wait; {niche} Can’t",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P283",
+    "template": "Comfort Zone: {niche}",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P284",
+    "template": "Quietly Making Room For {niche}",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P285",
+    "template": "Chasing Comfort, Finding {niche}",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P286",
+    "template": "Low Energy, High {niche} Enthusiasm",
+    "source": "Autorskie",
+    "category": "Introvert & cozy",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P287",
+    "template": "Officially A {role}, Secretly Obsessed With {niche}",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P288",
+    "template": "The {role} With The {niche} Collection",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P289",
+    "template": "A Proud {role} Powered By {niche}",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P290",
+    "template": "{role} By Day, {niche} Fan By Night",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P291",
+    "template": "My {role} Era Includes {niche}",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P292",
+    "template": "A {role} With A Soft Spot For {niche}",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P293",
+    "template": "Not Your Average {role}: I Love {niche}",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P294",
+    "template": "Certified {role}, Self-Taught {niche} Expert",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P295",
+    "template": "Living The {role} Life With {niche}",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P296",
+    "template": "{role} Goals, {niche} Dreams",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P297",
+    "template": "Ask This {role} About {niche}",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P298",
+    "template": "Off Duty {role}, On Duty {niche} Lover",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche",
+      "role"
+    ],
+    "requires": [
+      "role"
+    ]
+  },
+  {
+    "id": "P299",
+    "template": "Proud Member Of The {niche} Club",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P300",
+    "template": "Founder Of The Unofficial {niche} Society",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P301",
+    "template": "President Of My Own {niche} Fan Club",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P302",
+    "template": "{niche} Enthusiast Since Forever",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P303",
+    "template": "Part-Time Adult, Full-Time {niche} Fan",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P304",
+    "template": "Officially Unofficial {niche} Ambassador",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P305",
+    "template": "Life Member Of The {niche} Appreciation Club",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P306",
+    "template": "Proudly Representing Team {niche}",
+    "source": "Autorskie",
+    "category": "Jobs & identity",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P307",
+    "template": "You, Me, And A Whole Lot Of {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P308",
+    "template": "Love Means Sharing {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P309",
+    "template": "My Favorite Gift Is More {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P310",
+    "template": "A Love Note To {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P311",
+    "template": "I Choose You And {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P312",
+    "template": "Forever Your {niche} Person",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P313",
+    "template": "All My Favorite Days Have {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P314",
+    "template": "Made With Love And A Little {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P315",
+    "template": "Heart Full, Hands Full Of {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P316",
+    "template": "Love First, {niche} Always",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P317",
+    "template": "The Way To My Heart Is Through {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P318",
+    "template": "My Perfect Date Includes {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P319",
+    "template": "A Lifetime Supply Of {niche} Love",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P320",
+    "template": "Every Love Story Needs {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P321",
+    "template": "To Love And To {activity}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "activity"
+    ],
+    "requires": [
+      "activity"
+    ]
+  },
+  {
+    "id": "P322",
+    "template": "Cupid Knows I Love {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P323",
+    "template": "My Valentine Brings {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P324",
+    "template": "Together Is Better With {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P325",
+    "template": "My Heart Has Room For More {niche}",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P326",
+    "template": "The Sweetest Kind Of {niche} Love",
+    "source": "Autorskie",
+    "category": "Love & gifting",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P327",
+    "template": "Fuelled By Snacks And {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P328",
+    "template": "A Little Sugar, A Lot Of {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P329",
+    "template": "Freshly Brewed {niche} Thoughts",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P330",
+    "template": "Sip Slowly, Think Of {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P331",
+    "template": "Breakfast Can Wait, {niche} Can’t",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P332",
+    "template": "Good Food, Better {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P333",
+    "template": "Sweet Tooth, Soft Spot For {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P334",
+    "template": "Serving Up Some {niche} Energy",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P335",
+    "template": "Life Tastes Better With {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P336",
+    "template": "Snack Break? More Like {niche} Break",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P337",
+    "template": "Keep Calm And Add {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P338",
+    "template": "Whisking Up Some {niche} Magic",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P339",
+    "template": "One More Bite, One More {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P340",
+    "template": "Hungry For Adventure And {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P341",
+    "template": "Extra Sprinkles, Extra {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P342",
+    "template": "Today’s Special: {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P343",
+    "template": "Fresh Out Of Excuses, Full Of {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P344",
+    "template": "I Take My Coffee With {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P345",
+    "template": "Dessert First, {niche} Next",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P346",
+    "template": "Baked With Love And {niche}",
+    "source": "Autorskie",
+    "category": "Food & caffeine",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P347",
+    "template": "One Day, One {niche} Moment At A Time",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P348",
+    "template": "Grow Through Life With {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P349",
+    "template": "Choose Joy, Choose {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P350",
+    "template": "Breathe In Peace, Breathe Out {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P351",
+    "template": "Small Steps, Big {niche} Dreams",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P352",
+    "template": "Trust The Timing, Enjoy {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P353",
+    "template": "Keep Your Heart Open To {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P354",
+    "template": "Today Is A Good Day For {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P355",
+    "template": "You Belong Where {niche} Blooms",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P356",
+    "template": "A Brighter Day Starts With {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P357",
+    "template": "Make Space For What Matters: {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P358",
+    "template": "Find Your Spark In {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P359",
+    "template": "More Wonder, More {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P360",
+    "template": "Bloom Wherever {niche} Takes You",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P361",
+    "template": "Let Your Joy Be {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P362",
+    "template": "Progress, Not Perfection, And {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P363",
+    "template": "Every Season Has Room For {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P364",
+    "template": "Grateful For The Little {niche} Things",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P365",
+    "template": "Your Daily Dose Of {niche} Happiness",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P366",
+    "template": "Begin Again With {niche}",
+    "source": "Autorskie",
+    "category": "Positive & mindful",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P367",
+    "template": "Trick Or Treat, I Choose {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P368",
+    "template": "Spooky Season, {niche} Reason",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P369",
+    "template": "Ghouls Just Want {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P370",
+    "template": "Boo! Did Someone Say {niche}?",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P371",
+    "template": "A Haunting Amount Of {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P372",
+    "template": "Witching Hour, {niche} Power",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P373",
+    "template": "My Costume Is Mostly {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P374",
+    "template": "Creep It Real With {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P375",
+    "template": "Pumpkin Spice And Everything {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P376",
+    "template": "The Spirits Approve Of {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P377",
+    "template": "A Merry Little {niche} Season",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P378",
+    "template": "Dear Santa, Send {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P379",
+    "template": "Snowflakes, Sweaters, And {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P380",
+    "template": "Holiday Magic Starts With {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P381",
+    "template": "I Came For The {niche} Festivities",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P382",
+    "template": "All Wrapped Up In {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P383",
+    "template": "Frosty Days, Warm {niche} Heart",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P384",
+    "template": "Spooky Nights, Cozy {niche} Vibes",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P385",
+    "template": "'Tis The Season For {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  },
+  {
+    "id": "P386",
+    "template": "My Favorite Holiday Tradition Is {niche}",
+    "source": "Autorskie",
+    "category": "Spooky & seasonal",
+    "page": null,
+    "slots": [
+      "niche"
+    ],
+    "requires": []
+  }
+]

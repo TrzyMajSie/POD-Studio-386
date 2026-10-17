@@ -1,0 +1,202 @@
+[
+  {
+    "group": "Cute / Cartoon",
+    "name": "Kawaii / Cute",
+    "example": "Pastelowe postacie, miękkie kontury, rumieńce"
+  },
+  {
+    "group": "Cute / Cartoon",
+    "name": "Chibi",
+    "example": "Urocze mini postacie i duże głowy"
+  },
+  {
+    "group": "Cute / Cartoon",
+    "name": "Classic Cartoon",
+    "example": "Wyraźny kontur i humorystyczna ekspresja"
+  },
+  {
+    "group": "Cute / Cartoon",
+    "name": "Rubber Hose",
+    "example": "Animacja lat 30. i elastyczne kończyny"
+  },
+  {
+    "group": "Cute / Cartoon",
+    "name": "Mascot",
+    "example": "Autorska zwierzęca maskotka"
+  },
+  {
+    "group": "Cute / Cartoon",
+    "name": "Sticker Art",
+    "example": "Naklejkowy kontur i prosta forma"
+  },
+  {
+    "group": "Cute / Cartoon",
+    "name": "Comic Pop Art",
+    "example": "Halftone, komiksowe dymki"
+  },
+  {
+    "group": "Cute / Cartoon",
+    "name": "Pastel Goth",
+    "example": "Uroczo-mroczna pastelowa stylistyka"
+  },
+  {
+    "group": "Gothic / Dark",
+    "name": "Gothic",
+    "example": "Czerń, ciernie, ornaty, gotycka typografia"
+  },
+  {
+    "group": "Gothic / Dark",
+    "name": "Dark Academia",
+    "example": "Stare księgi, ryciny, świeczniki"
+  },
+  {
+    "group": "Gothic / Dark",
+    "name": "Witchcore",
+    "example": "Mistyczne symbole, gwiazdy i zioła"
+  },
+  {
+    "group": "Gothic / Dark",
+    "name": "Grunge",
+    "example": "Przetarcia, surowe plamy i tusz"
+  },
+  {
+    "group": "Gothic / Dark",
+    "name": "Blackletter",
+    "example": "Średniowieczne ozdobne liternictwo"
+  },
+  {
+    "group": "Gothic / Dark",
+    "name": "Skull & Roses",
+    "example": "Czaszki i ciemne kwiaty"
+  },
+  {
+    "group": "Gothic / Dark",
+    "name": "Cyber Goth",
+    "example": "Techno-kontrasty i kwaśna zieleń"
+  },
+  {
+    "group": "Gothic / Dark",
+    "name": "Celestial Occult",
+    "example": "Księżyce i abstrakcyjna geometria"
+  },
+  {
+    "group": "Retro / Vintage",
+    "name": "70s Retro",
+    "example": "Ciepłe pomarańcze i groovy lettering"
+  },
+  {
+    "group": "Retro / Vintage",
+    "name": "80s Synthwave",
+    "example": "Neon, siatka i retro-futuryzm"
+  },
+  {
+    "group": "Retro / Vintage",
+    "name": "90s Nostalgia",
+    "example": "Kolorowe geometryczne kształty"
+  },
+  {
+    "group": "Retro / Vintage",
+    "name": "Y2K Chrome",
+    "example": "Chrom i metaliczna typografia"
+  },
+  {
+    "group": "Retro / Vintage",
+    "name": "Vintage Engraving",
+    "example": "Szrafowanie i klasyczna rycina"
+  },
+  {
+    "group": "Retro / Vintage",
+    "name": "Old School Tattoo",
+    "example": "Tradycyjne tatuaże i banery"
+  },
+  {
+    "group": "Retro / Vintage",
+    "name": "Western",
+    "example": "Kowbojskie motywy i vintage emblematy"
+  },
+  {
+    "group": "Retro / Vintage",
+    "name": "Psychedelic Groovy",
+    "example": "Psychodeliczne kształty i płynne litery"
+  },
+  {
+    "group": "Modern",
+    "name": "Minimalist",
+    "example": "Mało elementów, dopracowane odstępy"
+  },
+  {
+    "group": "Modern",
+    "name": "Streetwear",
+    "example": "Mocny nadruk i dynamiczna kompozycja"
+  },
+  {
+    "group": "Modern",
+    "name": "Bold Typography",
+    "example": "Wyrazista typografia jako grafika"
+  },
+  {
+    "group": "Modern",
+    "name": "Monoline",
+    "example": "Minimalny kontur z jednej linii"
+  },
+  {
+    "group": "Modern",
+    "name": "Bauhaus Geometry",
+    "example": "Proste bryły i geometryczne rytmy"
+  },
+  {
+    "group": "Modern",
+    "name": "Swiss Design",
+    "example": "Grid, bezszeryfowe litery i hierarchia"
+  },
+  {
+    "group": "Modern",
+    "name": "Flat Vector",
+    "example": "Proste płaskie kolorowe formy"
+  },
+  {
+    "group": "Modern",
+    "name": "Varsity Collegiate",
+    "example": "Litery akademickie i emblematy"
+  },
+  {
+    "group": "Artystyczne",
+    "name": "Watercolor",
+    "example": "Plamy akwarelowe i miękkie przejścia"
+  },
+  {
+    "group": "Artystyczne",
+    "name": "Botanical",
+    "example": "Precyzyjne roślinne ilustracje"
+  },
+  {
+    "group": "Artystyczne",
+    "name": "Cottagecore",
+    "example": "Ciepła wiejska i leśna estetyka"
+  },
+  {
+    "group": "Artystyczne",
+    "name": "Woodblock Inspired",
+    "example": "Nawiązanie do tradycji drzeworytu"
+  },
+  {
+    "group": "Artystyczne",
+    "name": "Boho Earthy",
+    "example": "Ziemiste odcienie i naturalna paleta"
+  },
+  {
+    "group": "Artystyczne",
+    "name": "Silhouette Art",
+    "example": "Gra negatywem i mocnym konturem"
+  },
+  {
+    "group": "Artystyczne",
+    "name": "Paper Cut Collage",
+    "example": "Przenikające się papierowe warstwy"
+  },
+  {
+    "group": "Artystyczne",
+    "name": "Pixel Art",
+    "example": "8-bitowe symbole i retro gry"
+  }
+]

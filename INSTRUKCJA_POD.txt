@@ -1,0 +1,23 @@
+POD STUDIO — 386 FRAZ / INSTRUKCJA
+
+1. Otwórz plik konfigurator_POD_386_fraz.html w przeglądarce.
+2. Wpisz niszę, najlepiej po angielsku (np. Black Cats / French Bulldogs).
+3. Wybierz od 1 do 3 stylów spośród 40.
+4. Wybierz zakres unikania powtórek: wszystkie nisze (domyślnie) lub bieżąca nisza.
+5. Wylosuj 3 różne frazy albo wybierz je ręcznie z listy.
+6. Skopiuj gotowe prompty lub zapisz je jako TXT, aby użyć ich w generatorze grafik.
+7. Historia wybranych szablonów zapisuje się lokalnie, jeśli przeglądarka na to pozwala.
+   Możesz ją wyeksportować, a później zaimportować, np. na innym urządzeniu.
+
+WAŻNE
+- HTML działa offline i nie generuje samych obrazów, tylko przygotowuje frazy i prompty.
+- Powtórzeń fraz unika w obrębie zapisanej historii, dopóki są dostępne nowe szablony.
+- Podstawienie niszy może wymagać korekty angielskiej gramatyki.
+- Przed sprzedażą sprawdź znaki towarowe i kwestie prawne.
+
+ZAWARTOŚĆ
+konfigurator_POD_386_fraz.html — samodzielny konfigurator (z bazą w środku)
+baza_scalable_phrases.csv — baza do Excel / Google Sheets
+baza_scalable_phrases.json — baza w formacie JSON
+baza_scalable_phrases_lista.txt — lista do szybkiego czytania
+baza_styli_40.json — 40 opisów stylów
